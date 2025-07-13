@@ -2,7 +2,7 @@
 
 [🔗 Try the Web App](https://costycnc.github.io/raster-gcode-cm10/)
 
-This is a **beginner-friendly**, web-based tool to convert black-and-white images into raster-style G-code for **lightweight CNC machines**, like foam cutters and laser engravers.
+This is a **beginner-friendly**, web-based tool to convert black-and-white images into raster-style G-code for **lightweight CNC machines**, like foam cutters .
 
 It is part of the **CostyCNC** project — a compact, essential CNC designed for cutting polystyrene and other light materials.
 
