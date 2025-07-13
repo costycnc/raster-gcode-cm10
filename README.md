@@ -1,4 +1,4 @@
 # raster-gcode-cm10
 
-CostyCNC è una macchina CNC essenziale, compatta e facile da montare, progettata per il taglio del polistirolo e materiali leggeri.
+CostyCNC is an essential, compact, and easy-to-assemble CNC machine, designed for cutting polystyrene and lightweight materials.
 
